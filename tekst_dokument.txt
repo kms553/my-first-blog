@@ -21,3 +21,6 @@ else:
                         
 **********under oppretter django**
 C:\Users\Name\djangogirls> django-admin.exe startproject mysite .
+
+***** under finner video hvordan du kan benytte github med visual code *********
+https://www.bing.com/videos/search?q=how+to+pull+and+push+automatically+github&ru=%2fvideos%2fsearch%3fq%3dhow%2bto%2bpull%2band%2bpush%2bautomatically%2bgithub%26FORM%3dHDRSC3&view=detail&mid=422B2677132FEE753C4E422B2677132FEE753C4E&&FORM=VDRVRV
